@@ -1,6 +1,6 @@
 <!-- Profile Header with Logo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repository/main/jaya-industry-logo.png" alt="Jaya Industry Logo" width="150"/>
+  <img src="https://raw.githubusercontent.com/529992/529992/main/jaya-industry-logo.png" alt="Jaya Industry Logo" width="150"/>
 </p>
 
 <h1 align="center">Lakshika Jayarathna</h1>
