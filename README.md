@@ -60,9 +60,7 @@ I'm an Electro Technologist, and founder of **Jaya Event**, with a passion for A
   <img src="https://github-readme-stats.vercel.app/api?username=529992&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=529992&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=529992&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 ---
 
 ## 🌟 Featured Projects
