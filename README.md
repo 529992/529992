@@ -61,7 +61,7 @@ I'm an Electro Technologist, and founder of **Jaya Event**, with a passion for A
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-529992&theme=radical" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=529992&theme=radical" alt="GitHub Streak Stats"/>
 </p>
 
 ---
