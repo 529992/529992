@@ -1,106 +1,99 @@
-<!-- Profile Header with Logo -->
-<p align="center">
-  <img src="https://github.com/529992/529992/blob/main/jaya-industry-logo.png" alt="Jaya Industry Logo" width="150"/>
-</p>
+# Lakshika Jayarathna | Digital Renaissance Creator 🚀
 
-<h1 align="center">Lakshika Jayarathna</h1>
-<p align="center">Founder of Jaya Event | BTech Electro Technologist | AI Enthusiast</p>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&random=false&width=435&lines=BTech+Electro+Technologist;AI+Developer+%26+Sound+Engineer;Founder+of+Jaya+Event;Building+the+future+with+technology)](https://git.io/typing-svg)
 
-<!-- Social Media Badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/your-twitter-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://instagram.com/your-instagram-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+</div>
 
-## 🚀 About Me
+<img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-I'm an Electro Technologist, and founder of **Jaya Event**, with a passion for AI, software, and sound engineering. I'm currently focused on growing my event management business and working on innovative tech solutions in automation.
+## 👨‍💻 About Me
 
----
+> Bridging the gap between technology and entertainment
 
-## 💻 Tech Stack
+- 🎓 BTech in Electro Technology
+- 🎪 Founder & CEO of **Jaya Event**
+- 🎧 Professional DJ & Sound Engineer
+- 🤖 AI & Automation Enthusiast
+- 🛠️ Building innovative solutions with Arduino & Python
 
-### Core Technologies
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white" alt="MicroPython"/>
-</p>
+<br/>
 
-### Web Technologies
-<p>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
+## 🛠️ Technology Arsenal
 
-### Tools & Systems
-<p>
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
-  <img src="https://img.shields.io/badge/SQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-</p>
+```javascript
+const techStack = {
+    languages: ['Python', 'MicroPython', 'JavaScript', 'SQL'],
+    hardware: ['Arduino', 'Raspberry Pi', 'Sound Systems'],
+    ai_ml: ['OpenCV', 'TensorFlow', 'Computer Vision'],
+    webDev: ['HTML5', 'CSS3', 'React'],
+    tools: ['Git', 'VSCode', 'Linux'],
+    interests: ['AI Development', 'Sound Engineering', 'Automation']
+};
+```
 
----
+## 🌟 Signature Projects
 
-## 📊 GitHub Analytics
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">JayaVcut</h3>
+      <div align="center">
+        <a href="github.com/your-repo-link" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="100" alt="Project Logo"/>
+        </a>
+        <p><strong>AI-Powered Video Analysis</strong></p>
+        <p>Intelligent video segment extraction using OpenCV & moviepy</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Smart Helmet Detection</h3>
+      <div align="center">
+        <a href="github.com/your-repo-link" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="100" alt="Project Logo"/>
+        </a>
+        <p><strong>Road Safety Innovation</strong></p>
+        <p>Real-time helmet detection system with OpenCV & ML</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=529992&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats"/>
-</p>
+## 📈 GitHub Analytics
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=529992&theme=transparent&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
----
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=529992&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=529992&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
-## 🌟 Featured Projects
+## 🎵 Currently Vibing To
 
-### JayaVcut - Video Analysis Application
-- Built using **Python**, **OpenCV**, and **moviepy** libraries.
-- Allows users to extract and preview attractive segments from videos, perfect for content creators.
+<div align="center">
+  
+[![Spotify](https://novatorem-spotify-seven.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
 
-### Helmet Detection System
-- Real-time helmet detection system for road safety.
-- Developed using **OpenCV** and machine learning.
+</div>
 
-### Line-Following Robot
-- Designed and built a line-following robot using **Arduino** and **L298N motor module** for competition.
+## 🤝 Connect & Collaborate
 
-[More Projects](https://github.com/529992?tab=repositories)
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://YOUR_PORTFOLIO)
 
----
-
-## 🤝 Let's Connect & Collaborate!
-
-I'm always open to collaborating on projects related to AI, automation, and sound engineering. Feel free to reach out to discuss ideas or opportunities!
-
-<p align="center">
-  <a href="https://example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/your-twitter-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <b>“Technology is best when it brings people together.”</b>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=529992&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
+<div align="center">
+  
+  *"Innovation distinguishes between a leader and a follower."* - Steve Jobs
+
+</div>
