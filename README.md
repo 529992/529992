@@ -52,8 +52,8 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=529992&show_icons=true&theme=microsoft&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=529992&layout=compact&theme=microsoft&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=529992&show_icons=true&theme=transparent&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=529992&layout=compact&theme=transparent&hide_border=true"/>
 </div>
 
 ## 🌟 Signature Projects
