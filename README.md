@@ -6,7 +6,7 @@
 </div>
 
 ## 👨‍💻 About Me
-<img align="right" width="200" src="https://github.com/529992/529992/blob/main/jaya-industry-logo.png"/>
+<img align="right" width="200" src="https://github.com/529992/529992/blob/main/jayarathna_Brothers.png"/>
 > Bridging the gap between technology and entertainment
 
 - 🎓 BTech in Electro Technology
