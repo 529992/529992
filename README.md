@@ -10,7 +10,7 @@
 > Bridging the gap between technology and entertainment
 
 - 🎓 BTech in Electro Technology
-- 🎪 Founder & CEO of **Jaya Event**
+- 🎪 Founder & CEO of **Jayarathna Brothers (PVT) Ltd**
 - 🎧 Professional DJ & Sound Engineer
 - 🤖 AI & Automation Enthusiast
 - 🛠️ Building innovative solutions with Arduino & Python
